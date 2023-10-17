@@ -33,4 +33,4 @@ I want to improve myself in FLEXBOX and GRID in CSS
 
 - Website - [Guilherme Mota](I no have)
 - Frontend Mentor - [@guimota22](https://www.frontendmentor.io/profile/guimota22)
-- Linkedin - [@yourusername](https://www.linkedin.com/in/gui-mota-794965287)
+- Linkedin - [Gui Mota](https://www.linkedin.com/in/gui-mota-794965287)
